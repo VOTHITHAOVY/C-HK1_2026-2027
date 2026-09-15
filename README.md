@@ -1,5 +1,4 @@
 # C#-HK1_2026-2027
-Lập trình C# là môn học giúp sinh viên làm quen và rèn luyện kỹ năng lập trình với ngôn ngữ C#, từ những kiến thức cơ bản đến việc xây dựng và kiểm thử chương trình.
 
 Trong quá trình học, nhóm thực hiện các bài tập nhằm củng cố kiến thức về cú pháp C#, biến, kiểu dữ liệu, cấu trúc điều khiển, phương thức, lập trình hướng đối tượng và Unit Test. Các bài tập được phân chia giữa các thành viên để cùng thực hành, trao đổi và phát triển kỹ năng lập trình.
 
