@@ -2,12 +2,12 @@
 
 ## Thành viên nhóm
 
-| STT | Họ và tên         |
-| :-: | ----------------- |
-|  1  | Võ Thị Thảo Vy    |
-|  2  | Nguyễn Như Thảo   |
-|  3  | Nguyễn Mạnh Tú    |
-|  4  | Nguyễn Hồng Vượng |
+| STT | Họ và tên         | MSSV       |
+| :-: | ----------------- | :--------: |
+|  1  | Võ Thị Thảo Vy    | 3124411356 |
+|  2  | Nguyễn Như Thảo   | 3124411281 |
+|  3  | Nguyễn Mạnh Tú    | 3124411331 |
+|  4  | Nguyễn Hồng Vượng | 3124411354 |
 
 ---
 
