@@ -11,7 +11,7 @@
 
 ---
 
-## 📝 Bài tập 1
+## Bài tập 1
 
 ### Phân công bài tập
 
