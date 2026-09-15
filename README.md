@@ -15,12 +15,13 @@
 
 ### Phân công bài tập
 
-| Thành viên        | Cơ bản | Nâng cao |
-| :---------------- | :----: | :------: |
-| Võ Thị Thảo Vy    |    2   |     2    |
-| Nguyễn Như Thảo   |    1   |     1    |
-| Nguyễn Mạnh Tú    |    3   |     3    |
-| Nguyễn Hồng Vượng |    4   |     4    |
+| STT | Thành viên        | Cơ bản | Nâng cao | MSSV       |
+| :-: | ----------------- | :----: | :------: | ---------- |
+|  1  | Võ Thị Thảo Vy    |    2   |     2    | 3124411356 |
+|  2  | Nguyễn Như Thảo   |    1   |     1    | 3124411281 |
+|  3  | Nguyễn Mạnh Tú    |    3   |     3    | 3124411331 |
+|  4  | Nguyễn Hồng Vượng |    4   |     4    | 3124411354 |
+
 
 ---
 
